@@ -1,0 +1,10 @@
+{
+  "name": "novabacend",
+  "version": "1.0.0",
+  "description": "NOVA ONE Media Backend",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {}
+}
